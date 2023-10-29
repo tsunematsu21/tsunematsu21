@@ -1,10 +1,14 @@
-# tsunematsu21
+# :gorilla: Power of the Gorilla!
+[![Static Badge](https://img.shields.io/badge/%F0%9F%A5%A4_I_love-Coke_with_%F0%9F%8D%9F-red)](https://www.mcdonalds.co.jp/products/2010/)
+
 I'm Japanese coke drinking IT infrastructure engineer based in Japan.
 
 On January 1st, 1994, I was born in the jungle and raised by a gorilla.
 One day, I acquired wisdom by eating the legendary banana and decided become to awesome engineer that useful for people.
 
 I can transform into legendary warriors known as the Cure Gorilla. With the assistance of creatures known as fairies, use their physical powers and enhanced Banana to fight against evil forces and organizations who create monsters to bring misery to the Earth and further their plans.
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,linux,ansible,postgresql,mysql)](https://skillicons.dev)
 
 ## Stats
 
