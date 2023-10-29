@@ -1,4 +1,4 @@
-# :gorilla: Power of the Gorilla!
+### :gorilla: Power of the Gorilla!
 [![Static Badge](https://img.shields.io/badge/%F0%9F%A5%A4_I_love-Coke_with_%F0%9F%8D%9F-red)](https://www.mcdonalds.co.jp/products/2010/)
 [![Twitter](https://img.shields.io/badge/@tsunematsu21-55ACEE?logo=twitter&logoColor=white)](https://www.mcdonalds.co.jp/products/2010/)
 
@@ -9,7 +9,7 @@ One day, I acquired wisdom by eating the legendary banana and decided become to 
 
 I can transform into legendary warriors known as the Cure Gorilla. With the assistance of creatures known as fairies, use their physical powers and enhanced Banana to fight against evil forces and organizations who create monsters to bring misery to the Earth and further their plans.
 
-### Things I play with
+#### Things I play with
 <p>
   <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-FF9900?logo=amazonaws&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white" />
@@ -26,11 +26,11 @@ I can transform into legendary warriors known as the Cure Gorilla. With the assi
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white" />
 </p>
 
-## Get in touch with me
-Want to get in touch? I'm not currently looking for a job, but welcome feedback and chat.  
+### Get in touch with me
+Want to get in touch? I'm not currently looking for a job, but welcome feedback and chat.
 I will try my best to reply to you.
 
-### Ping me on
+#### Ping me on
 <p>
   <a href="https://github.com/tsunematsu21" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/@tsunematsu21-333?&logo=github&logoColor=white" />
@@ -42,18 +42,3 @@ I will try my best to reply to you.
     <img alt="Instagram" src="https://img.shields.io/badge/@tsunematsu21-E1306C?&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<!--
-**tsunematsu21/tsunematsu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
