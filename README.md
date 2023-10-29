@@ -10,19 +10,19 @@ I can transform into legendary warriors known as the Cure Gorilla. With the assi
 
 #### :hammer_and_wrench: Things I play with
 <p>
-  <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-FF9900?logo=amazonaws&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-1A1918?logo=ansible&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0DB7ED?logo=docker&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-68A063?logo=nodedotjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064A5?logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white" />
+  <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064A5?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ### :envelope: Get in touch with me
