@@ -8,7 +8,11 @@ One day, I acquired wisdom by eating the legendary banana and decided become to 
 
 I can transform into legendary warriors known as the Cure Gorilla. With the assistance of creatures known as fairies, use their physical powers and enhanced Banana to fight against evil forces and organizations who create monsters to bring misery to the Earth and further their plans.
 
-### Things I 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tsunematsu21" alt="GitHub Streak" /></a>
+</p>
+
+### Things I pley with
 <p>
   <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
@@ -26,6 +30,10 @@ I can transform into legendary warriors known as the Cure Gorilla. With the assi
 </p>
 
 ## Get in touch with me
+Want to get in touch? I'm not currently looking for a job, but welcome feedback and chat.  
+I will try my best to reply to you.
+
+### Ping me on
 <p>
   <a href="https://github.com/tsunematsu21" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-333?&style=for-the-badge&logo=github&logoColor=white" />
