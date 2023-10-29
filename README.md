@@ -8,13 +8,15 @@ One day, I acquired wisdom by eating the legendary banana and decided become to 
 
 I can transform into legendary warriors known as the Cure Gorilla. With the assistance of creatures known as fairies, use their physical powers and enhanced Banana to fight against evil forces and organizations who create monsters to bring misery to the Earth and further their plans.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,linux,ansible,postgresql,mysql)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,ts,linux,ansible,postgresql,mysql">
+</p>
 
-## Stats
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tsunematsu21&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsunematsu21&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunematsu21&langs_count=10&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsunematsu21)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **tsunematsu21/tsunematsu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
