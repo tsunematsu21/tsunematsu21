@@ -1,5 +1,5 @@
 ### :gorilla: Power of the Gorilla!
-[![Static Badge](https://img.shields.io/badge/%F0%9F%A5%A4_I_love-Coke_with_%F0%9F%8D%9F-red)](https://www.mcdonalds.co.jp/products/2010/)
+![I love coke with french fries](https://img.shields.io/badge/I_love_coke-with_🍟-DA291C)
 
 I'm Japanese coke drinking IT infrastructure engineer based in Japan.
 
@@ -18,6 +18,7 @@ I can transform into legendary warriors known as the Cure Gorilla. With the assi
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=go&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064A5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
@@ -30,12 +31,12 @@ Want to get in touch? I'm not currently looking for a job, but welcome feedback 
 I will try my best to reply to you.
 <p>
   <a href="https://github.com/tsunematsu21" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/@tsunematsu21-333?&logo=github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-333?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/tsunematsu21" target="_blank">
-    <img alt="Twitter(X)" src="https://img.shields.io/badge/@tsunematsu21-55ACEE?&logo=twitter&logoColor=white" />
+    <img alt="Twitter(X)" src="https://img.shields.io/badge/Twitter-55ACEE?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/tsunematsu21" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/@tsunematsu21-E1306C?&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
