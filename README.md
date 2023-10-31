@@ -59,6 +59,3 @@ Platform
 <a href="https://instagram.com/tsunematsu21" target="_blank">
   <img src="https://simpleicons.vercel.app/instagram/666" width="20px" align="left" />
 </a>
-<a href="https://www.linkedin.com/in/masato-tsunematsu-671096148/" target="_blank">
-  <img src="https://simpleicons.vercel.app/linkedin/666" width="20px" align="left" />
-</a>
