@@ -51,6 +51,3 @@ I'll try my best to reply to you. Please ping me on socials.
 ![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Amazon Linux](https://img.shields.io/badge/-Amazon_Linux-FF9900?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
-
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=tsunematsu21&mode=weekly)](https://git.io/streak-stats)
