@@ -53,8 +53,8 @@ Platform
 <a href="https://github.com/tsunematsu21" target="_blank">
   <img src="https://simpleicons.vercel.app/github/666" width="20px" align="left" />
 </a>
-<a href="https://twitter.com/tsunematsu21" target="_blank">
-  <img src="https://simpleicons.vercel.app/twitter/666" width="20px" align="left" />
+<a href="https://x.com/tsunematsu21" target="_blank">
+  <img src="https://simpleicons.vercel.app/x/666" width="20px" align="left" />
 </a>
 <a href="https://instagram.com/tsunematsu21" target="_blank">
   <img src="https://simpleicons.vercel.app/instagram/666" width="20px" align="left" />
