@@ -1,6 +1,6 @@
-### Yo! :wave:
+### Yo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 
-:cup_with_straw: I'm Japanese coke drinking IT infrastructure engineer based in Japan. :fries:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="25" height="25" /> I'm Japanese coke drinking IT infrastructure engineer based in Japan. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/French%20Fries.webp" alt="French Fries" width="25" height="25" />
 
 On January 1st, 1994, I was born in the jungle and raised by a gorilla.
 One day, I acquired wisdom by eating the legendary banana and decided become to awesome engineer that useful for people.
