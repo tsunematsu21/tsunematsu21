@@ -1,13 +1,15 @@
-## Yo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
+## Yo! <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /></picture>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="25" height="25" /> I'm Japanese coke drinking IT infrastructure engineer based in Japan. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/French%20Fries.webp" alt="French Fries" width="25" height="25" />
+<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="25" height="25" /></picture>
+I'm Japanese coke drinking IT infrastructure engineer based in Japan.
+<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/French%20Fries.webp" alt="French Fries" width="25" height="25" /></picture>
 
 On January 1st, 1994, I was born in the jungle and raised by a gorilla.
 One day, I acquired wisdom by eating the legendary banana and decided become to awesome engineer that useful for people.
 
 I can transform into legendary warriors known as the Cure Gorilla. With the assistance of creatures known as fairies, use their physical powers and enhanced Banana to fight against evil forces and organizations who create monsters to bring misery to the Earth and further their plans.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Things I play with
+### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /></picture> Things I play with
 
 Cloud  
 ![Amazon Web Service](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -41,7 +43,7 @@ Platform
 ![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Ping me on
+### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /></picture> Ping me on
 
 <a href="https://github.com/tsunematsu21" target="_blank">
   <img src="https://simpleicons.vercel.app/github/666" width="20px" align="left" />
