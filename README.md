@@ -1,7 +1,7 @@
 ## Yo! <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /></picture>
 
 <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="25" height="25" /></picture>
-I'm Japanese coke drinking IT infrastructure engineer based in Japan.
+I'm Japanese cola drinking IT infrastructure engineer based in Japan.
 <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/French%20Fries.webp" alt="French Fries" width="25" height="25" /></picture>
 
 On January 1st, 1994, I was born in the jungle and raised by a gorilla.
